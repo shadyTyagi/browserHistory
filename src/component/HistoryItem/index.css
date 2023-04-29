@@ -1,0 +1,25 @@
+li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  justify-content: space-between;
+}
+
+.container {
+  display: flex;
+}
+
+.container p {
+  margin: 20px;
+}
+
+.container img {
+  height: 30px;
+  margin: 10px;
+}
+
+button {
+  background-color: transparent;
+  border: 0;
+}
